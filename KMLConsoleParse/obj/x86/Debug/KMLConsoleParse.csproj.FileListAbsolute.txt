@@ -1,0 +1,5 @@
+C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\bin\Debug\KMLConsoleParse.exe
+C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\bin\Debug\KMLConsoleParse.pdb
+C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Debug\KMLConsoleParse.exe
+C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Debug\KMLConsoleParse.pdb
