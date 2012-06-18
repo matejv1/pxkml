@@ -1,0 +1,5 @@
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\bin\Release\KMLConsoleParse.exe
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\bin\Release\KMLConsoleParse.pdb
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Release\KMLConsoleParse.exe
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Release\KMLConsoleParse.pdb

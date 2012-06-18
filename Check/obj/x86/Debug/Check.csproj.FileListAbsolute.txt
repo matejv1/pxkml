@@ -1,0 +1,5 @@
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\Check\bin\Debug\Check.exe
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\Check\bin\Debug\Check.pdb
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\Check\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\Check\obj\x86\Debug\Check.exe
+C:\Users\Matej\documents\visual studio 2010\Projects\KMLConsoleParse\Check\obj\x86\Debug\Check.pdb
