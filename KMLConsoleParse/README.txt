@@ -1,0 +1,1 @@
+Change KML to XML.Remove xmlns attribute from <kml> tag. Run program on XML in Debug folder.
