@@ -3,3 +3,4 @@ C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleP
 C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Debug\KMLConsoleParse.exe
 C:\Users\Matej\Documents\Visual Studio 2010\Projects\KMLConsoleParse\KMLConsoleParse\obj\x86\Debug\KMLConsoleParse.pdb
+C:\Source\csharp\pxkml\KMLConsoleParse\obj\x86\Debug\KMLConsoleParse.pdb
